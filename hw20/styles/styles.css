@@ -1,0 +1,25 @@
+body {
+    font-family: 'Acme', sans-serif;
+}
+
+button {
+    border: beige;
+    padding: 5px 10px;
+    font-size: 14px;
+    background-color: darkslateblue;
+    text-transform: uppercase;
+    color: #fff;
+    cursor: pointer;
+}
+
+table {
+    margin: 20px 0 0 20px;
+    border: solid 2px #000000;
+    border-collapse: separate;
+}
+
+th,
+td {
+    border: solid 1px #000000;
+    padding: 4px 8px;
+}
